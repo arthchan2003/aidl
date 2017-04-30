@@ -1,8 +1,22 @@
+**********************************************************
 Welcome! Welcome! We are the most active FB group for Artificial Intelligence/Deep Learning, or AIDL. Many of our members are knowledgeable so feel free to ask questions.
 We have a tied-in newsletter: https://aidlweekly.curated.co/ and
 a YouTube-channel, with weekly show "AIDL Office Hour", 
 https://www.youtube.com/channel/UC3YM5TEbSqIpFGH85d6gjKg
-Posting is strict at AIDL, your post has to be relevant, accurate and non-commerical (FAQ Q12). Commercial posts are only allowed on Saturday. If you don't follow this rule, you might be banned.
+Posting is strict at AIDL, your post has to be relevant, accurate and non-commerical (FAQ Q12). Commercial posts are only allowed on Saturday, which is defined by Eastern Time. If you don't follow this rule, you might be banned.
+To be very clear, here are how we treat different types of posts:
+What we delete instantly:
+- Re-post from a page,
+- Re-post of an article which is already posted,
+- Copyrighted material, unless the author explicitly release the content,
+What we delete instantly on non-Saturdays, but you are invited to repost on Saturday:
+- Promotion of another group, Facebook or not,
+- Promotion of conferences/events/products, 
+- Job recruitment/solicitation,
+- Brand promotion: notice that any mentioning with your company name and brand within your post counted as promotion.
+As a maxim, we usually don't care about like-counts of your post when exercising the above rules. We believe like-count is not always the best measurement of relevancy/quality of a post.
+Also, we keep the final right to decide if your posts stay or not. As a maxim, we penalize deceptive practice of posting, but reward posts which creative positive value fro the group.
+**********************************************************
 FAQ:
 Q1: How do I start AI/ML/DL?
 A: 
@@ -32,8 +46,11 @@ Some people will also argue Topology as important and having a Physics and Biolo
 Q9: What are the cool research papers to read in Deep Learning?
 A: We think songrotek's list is pretty good: https://github.com/son…/Deep-Learning-Papers-Reading-Roadmap. Another classic is deeplearning.net's reading list: http://deeplearning.net/reading-list/.
 Q10: What is the best/most recommended language in Deep Learning/AI?
-A: Python is usually cited as a good language because it has the best support of libraries. Most ML libraries from python links with C/C++. So you get the best of both flexibility and speed.
+A: This is one of the most frequently asked questions and it re-emerged from time to time. So here are few couple of useful point of view:
+In general, if you are working on computer, you will need to switch between languages from time to time. So arguing about language and which is better is not a wise thing. If we want to give the best advice, perhaps the answer is you should just learn as many of them as possible.
+Of course, your time is limited. So AIDL usually recommend python as your first choice. Python is cited as a good language for AI/DL because it has the best support of libraries. Most ML libraries from python links with C/C++. So you get the best of both flexibility and speed.
 Other also cites Java (deeplearning4j), Lua (Torch), Lisp, Golang, R. It really depends on your purpose. Practical concerns such as code integration, your familiarity with a language usually dictates your choice. R deserves special mention because it was widely used in some brother fields such as data science and it is gaining popularity.
+Finally, there is Matlab/Octave, it is also useful to learn because many Coursera ML's class is Matlab-based. e.g. Ng's class and Hinton's class. Sure, you can finish them in python, but there are much re-implementation in the process.
 Q11: I am bad at Math/Programming. Can I still learn A.I/D.L?
 A: Mostly you can tag along, but at a certain point, if you don't understand the underlying Math, you won't be able to understand what you are doing. Same for programming, if you never implement one, or trace one yourself, you will never truly understand why an algorithm behave a certain way.
 So what if you feel you are bad at Math? Don't beat yourself too much. Take Barbara Oakley's class on "Learning How to Learn", you will learn more about tough subjects such as Mathematics, Physics and Programming.
@@ -44,3 +61,4 @@ A: Take a look of the collection from our members: https://www.facebook.com/grou
 Q14: Can I found some freebooks on Machine Learning?
 A: Many links you will see on-line are actually filled with non-free contents. Of course you also want to download books legally. Here is one which I think it's satisfactory:
 http://www.kdnuggets.com/…/10-free-must-read-books-machine-…
+
