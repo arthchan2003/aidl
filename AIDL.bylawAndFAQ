@@ -1,0 +1,46 @@
+Welcome! Welcome! We are the most active FB group for Artificial Intelligence/Deep Learning, or AIDL. Many of our members are knowledgeable so feel free to ask questions.
+We have a tied-in newsletter: https://aidlweekly.curated.co/ and
+a YouTube-channel, with weekly show "AIDL Office Hour", 
+https://www.youtube.com/channel/UC3YM5TEbSqIpFGH85d6gjKg
+Posting is strict at AIDL, your post has to be relevant, accurate and non-commerical (FAQ Q12). Commercial posts are only allowed on Saturday. If you don't follow this rule, you might be banned.
+FAQ:
+Q1: How do I start AI/ML/DL?
+A: 
+Step 1: Learn some Math and Programming,
+Step 2: Take some beginner classes. e.g. Try out Ng's Machine Learning.
+Step 3: Find some problem to play with. Kaggle has tons of such tasks.
+Iterate the above 3 steps until you become bored. From time to time you can share what you learn.
+Here's a post which one of us (Arthur) wrote up. It summarizes his experience in learning machine learning and you might find it useful. (http://thegrandjanitor.com/…/learning-machine-learning-som…/)
+Q2: What is your recommended first class for ML?
+A: Ng's Coursera, the CalTech edX class, the UW Coursera class is also pretty good.
+Q3: What are your recommended classes for DL?
+A: Go through at least 1 or 2 ML class, then go for Hinton's, Karparthay's, Socher's, LaRochelle's and de Freitas. For deep reinforcement learning, go with Silver's and Schulmann's lectures. Also see Q4.
+Q4: How do you compare different resources on machine learning/deep learning?
+A: (Shameless self-promoting plug by Arthur) Here is an article, "Learning Deep Learning - Top-5 Resources" written by me (Arthur) on different resources and their prerequisites. I refer to it couple of times at AIDL, and you might find it useful: http://thegrandjanitor.com/…/learning-deep-learning-my-top…/ .
+Other than my own list, here are some very good lists I recommend you to read through as well,
+* YerevaNN Lab's "A Guide to Deep Learning" (http://yerevann.com/a-guide-to-deep-learning/)
+* Reddit's machine learning FAQ has another list of great resources as well.
+Q5: How do I use machine learning technique X with language L?
+A: Google is your friend. You might also see a lot of us referring you to Google from time to time. That's because your question is best to be solved by Google.
+Q6: Explain concept Y. List 3 properties of concept Y. 
+A: Google. Also we don't do your homework. If you couldn't Google the term though, it's fair to ask questions.
+Q7: What is the most recommended resources on deep learning on computer vision?
+A: cs231n. 2016 is the one I will recommend. Most other resources you will find are derivative in nature or have glaring problems.
+Q8: What is the prerequisites of Machine Learning/Deep Learning?
+A: Mostly Linear Algebra and Calculus I-III. In Linear Algebra, you should be good at eigenvectors and matrix operation. In Calculus, you should be quite comfortable with differentiation. You might also want to have a primer on matrix differentiation before you start because it's a topic which is seldom touched in an undergraduate curriculum.
+Some people will also argue Topology as important and having a Physics and Biology background could help. But they are not crucial to start.
+Q9: What are the cool research papers to read in Deep Learning?
+A: We think songrotek's list is pretty good: https://github.com/son…/Deep-Learning-Papers-Reading-Roadmap. Another classic is deeplearning.net's reading list: http://deeplearning.net/reading-list/.
+Q10: What is the best/most recommended language in Deep Learning/AI?
+A: Python is usually cited as a good language because it has the best support of libraries. Most ML libraries from python links with C/C++. So you get the best of both flexibility and speed.
+Other also cites Java (deeplearning4j), Lua (Torch), Lisp, Golang, R. It really depends on your purpose. Practical concerns such as code integration, your familiarity with a language usually dictates your choice. R deserves special mention because it was widely used in some brother fields such as data science and it is gaining popularity.
+Q11: I am bad at Math/Programming. Can I still learn A.I/D.L?
+A: Mostly you can tag along, but at a certain point, if you don't understand the underlying Math, you won't be able to understand what you are doing. Same for programming, if you never implement one, or trace one yourself, you will never truly understand why an algorithm behave a certain way.
+So what if you feel you are bad at Math? Don't beat yourself too much. Take Barbara Oakley's class on "Learning How to Learn", you will learn more about tough subjects such as Mathematics, Physics and Programming.
+Q12: Would you explain more about AIDL's posting requirement?
+A: This is a frustrating topic for many posters, albeit their good intention. I suggest you read through this blog post http://thegrandjanitor.com/2017/01/26/posting-on-aidl/ before you start any posting.
+Q13: What is the list of common public database?
+A: Take a look of the collection from our members: https://www.facebook.com/groups/DeepNetGroup/permalink/394240667635488/
+Q14: Can I found some freebooks on Machine Learning?
+A: Many links you will see on-line are actually filled with non-free contents. Of course you also want to download books legally. Here is one which I think it's satisfactory:
+http://www.kdnuggets.com/…/10-free-must-read-books-machine-…
